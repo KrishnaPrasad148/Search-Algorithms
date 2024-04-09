@@ -121,36 +121,36 @@ else:
 
 ```
 ## Sample Input and Output
-### i)
-# Input:
+# i)
+### Input:
 
    [9, 6, 7, 8, 1, 3]
 
    9
 
-# Output:
+### Output:
 
 ![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/ddae505d-68b8-4cd2-9c30-c9b16b048a6d)
 
-### ii)
-# Input:
+# ii)
+### Input:
 
    [10, 78, 68, 67, 56]
 
    68
 
-# Output:
+### Output:
 
 ![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/47a62ab6-0922-437c-89f2-fd60ad300db6)
 
-### iii)
-# Input:
+# iii)
+### Input:
 
    [78, 56, 77, 98, 95]
 
    77
 
-# Output:
+### Output:
 
 ![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/d74df6a0-3acb-4c07-be6e-a755b40f4b27)
 
