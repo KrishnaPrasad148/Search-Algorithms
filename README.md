@@ -122,37 +122,16 @@ else:
 ```
 ## Sample Input and Output
 # i)
-### Input:
+![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/3b5e1a9d-a7c7-4eef-8462-9b864b40c1d3)
 
-   [9, 6, 7, 8, 1, 3]
-
-   9
-
-### Output:
-
-![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/ddae505d-68b8-4cd2-9c30-c9b16b048a6d)
 
 # ii)
-### Input:
+![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/ef517f75-542e-4ca2-aaf3-b7c1ee1ac10f)
 
-   [10, 78, 68, 67, 56]
-
-   68
-
-### Output:
-
-![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/47a62ab6-0922-437c-89f2-fd60ad300db6)
 
 # iii)
-### Input:
+![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/dd0ef17c-ad5b-4e5d-a516-c63dec21991c)
 
-   [78, 56, 77, 98, 95]
-
-   77
-
-### Output:
-
-![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/d74df6a0-3acb-4c07-be6e-a755b40f4b27)
 
 
 
