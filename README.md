@@ -126,10 +126,14 @@ else:
 
 
 # ii)
+![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/5af89332-b60b-4660-880f-cc8c36797413)
+
 ![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/ef517f75-542e-4ca2-aaf3-b7c1ee1ac10f)
 
 
 # iii)
+![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/2be2f04f-580b-4506-82e0-62447a21b928)
+
 ![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/dd0ef17c-ad5b-4e5d-a516-c63dec21991c)
 
 
