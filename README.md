@@ -122,20 +122,22 @@ else:
 ```
 ## Sample Input and Output
 # i)
-![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/3b5e1a9d-a7c7-4eef-8462-9b864b40c1d3)
+![Screenshot 2024-05-08 065024](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/be941df4-80fe-4d10-99a1-7ad524e08f09)
+
+![Screenshot 2024-05-08 065038](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/9707468a-1399-4024-9a78-f22036a4d1e4)
 
 
 # ii)
-![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/5af89332-b60b-4660-880f-cc8c36797413)
+![Screenshot 2024-05-08 065141](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/0bf38041-375c-477e-a92b-e6a1f4bd4d69)
 
-![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/ef517f75-542e-4ca2-aaf3-b7c1ee1ac10f)
+![Screenshot 2024-05-08 065150](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/a940b340-c853-41ce-be0a-329f94ef1c5d)
 
 
 # iii)
-![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/2be2f04f-580b-4506-82e0-62447a21b928)
+![Screenshot 2024-05-08 065203](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/006a773a-69ba-45a4-b239-ec36d0f24cdc)
 
-![image](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/dd0ef17c-ad5b-4e5d-a516-c63dec21991c)
 
+![Screenshot 2024-05-08 065223](https://github.com/KrishnaPrasad148/Search-Algorithms/assets/147332763/f1c47164-4840-41ba-b7eb-59bb41f4b1d7)
 
 
 
